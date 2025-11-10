@@ -51,7 +51,7 @@
 
   
 
-![Блок-схема алгоритма](Work_8_Homework_Schema.png)
+![Блок-схема алгоритма](lab11dz_scheme.png)
 
 ---
 
